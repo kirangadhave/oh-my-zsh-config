@@ -3,7 +3,7 @@
 #  */
 git_config_uou(){
 	git config user.email "u1143683@utah.edu"
-	git config user.email "Kiran Gadhave"
+	git config user.name "Kiran Gadhave"
 }
 
 git_all(){
