@@ -6,6 +6,11 @@ git_config_uou(){
 	git config user.name "Kiran Gadhave"
 }
 
+git_config_general(){
+	git config user.email "kirangadhave2@gmail.com"
+	git config user.name "Kiran Gadhave"
+}
+
 git_all(){
 	git add .
 	if [ "$1" != "" ]; then
